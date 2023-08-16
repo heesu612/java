@@ -1,5 +1,6 @@
 
 // 정수 1개를 입력하여 홀수인지, 짝수인지를 판별
+// 정수를 나누었을 때, 나머지가 0이면 짝수, 나머지가 1이면 홀수
 import java.util.Scanner;
 
 public class If02 {

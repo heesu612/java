@@ -1,4 +1,5 @@
 // 문제 2) 정수 1개를 입력하여 3의 배수이면서 4의 배수인지를 판별
+// 정수를 나누었을 때, 나머지가 0이면
 import java.util.Scanner;
 
 public class If03 {

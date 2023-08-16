@@ -16,5 +16,7 @@ public class Scanner02 {
 		float b = sc.nextFloat();
 		System.out.println("원의 둘레 : " + (2 * a * b));
 		System.out.println("원의 면적 : " + (a * a * b));
+		
+		sc.close();
 	}
 }
